@@ -1,8 +1,3 @@
-"""
-Aplicación Principal: Dashboard de Predicción de Demanda
-Streamlit app con XGBoost Regressor para visualizar y explotar modelo ML.
-"""
-
 import streamlit as st
 import pandas as pd
 from datetime import datetime
@@ -175,7 +170,6 @@ with col_desc1:
     - 📅 Planeación anual de inventario
     - 🎲 Simulación What-If de escenarios
     - 🔬 Análisis detallado del modelo
-    - 📦 Predicción masiva por lote
     """)
 
 with col_desc2:

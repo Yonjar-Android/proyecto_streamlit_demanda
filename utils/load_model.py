@@ -1,8 +1,3 @@
-"""
-Módulo para cargar el modelo XGBoost Regressor.
-Implementa caching de Streamlit para optimizar el rendimiento.
-"""
-
 import joblib
 import streamlit as st
 from typing import Any
