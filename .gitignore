@@ -52,8 +52,6 @@ data/salida/*
 
 # Modelos (excepto el principal)
 *.joblib
-*.pkl
-!modelo_demanda.pkl
 
 # Logs
 *.log
